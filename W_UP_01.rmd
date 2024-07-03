@@ -1,7 +1,7 @@
 ---
 title: "W_UP_01"
-author: "your name here"
-date: "fall 2020"
+author: "Sandra Iovino"
+date: "Summer 2024"
 output: html_document
 ---
 
@@ -23,13 +23,19 @@ mydata <- read.csv(file="pushups.csv")
 
 Create an Rstudio project in your shared space on rstudio.cloud.  Using the dataset called pushups from the tigerstats package in R; answer the question posed by this null and alternate hypothesis in an html markdown document.
 
-$H_0$: There is no difference between the average number of pushups of line vs skill players
+$H_0$: There is no difference between the average number of pushups that line can do in 2 minutes, compared to skill
 
-$H_A$: The average number of pushups done by line players is statistically different than that of skill players.
+$H_A$: The average number of pushups done by 2 minutes line players is statistically different than that of skill players.
 
 # Methods
 
 <!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
+ Pushups is a numerical number   
+ Skill is categorical variable  
+ we predict push ups based on positions, viz ( mainly)  
+ Pushups~position  
+ we use helper file  
+NUM~CAT 
 
 # Results
 
