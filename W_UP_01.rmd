@@ -57,6 +57,10 @@ boxplot(pushups~position,data=mydata)
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(pushups~position,data=mydata)
+```
+ This shows that the skill player can do an average of 50 pushups in 2 minutes than the line players, that only do about 17 pushups in 2 minutes.   
 
 ## Inferential Results
 
