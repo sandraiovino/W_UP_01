@@ -76,4 +76,4 @@ In the Ttest it shows that the P-Value is 9.421e-06. This will come out to have 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-
+Our job was to see if line players can do more pushups than skilled players under 2 minutes. When graphing results it shows that skilled players can do more pushups than Line players under 2 minutes. When doing the numerical results it shows that skilled players can do about 50 push ups under 2 mins and Line players can do roughly 17 pushups under 2 minutes. When doing the T test it shows that we reject the null hypothesis since Pvalue was less than 0.05. This means that there is a difference when skilled players do pushups in 2 minutes.  
