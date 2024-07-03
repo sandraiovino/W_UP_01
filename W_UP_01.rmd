@@ -51,11 +51,12 @@ NUM~CAT
 boxplot(pushups~position,data=mydata)
 ```
 
- The skills position do more pushups than the line position.  
+ This box plot shows that skills position do more pushups in 2 minutes than line players.    
 
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
 
 ## Inferential Results
 
